@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tahiriii-ai.github.io/ta-embedded-solutions/sitemap.xml
